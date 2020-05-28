@@ -4,4 +4,4 @@
 
 ## Currently finished component
 
-- Image Slider
+- [Image Slider](https://github.com/Taewoong-H/UI_Component/tree/master/ImageSlider)
