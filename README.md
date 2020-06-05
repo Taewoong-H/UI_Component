@@ -5,3 +5,4 @@
 ## Currently finished component
 
 - [Image Slider](https://github.com/Taewoong-H/UI_Component/tree/master/ImageSlider)
+- [Scroll page](https://github.com/Taewoong-H/UI_Component/tree/master/ScrollPage)
