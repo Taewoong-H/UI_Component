@@ -170,3 +170,77 @@
   padding: 100px;
   text-align: center;
 }
+
+.client .imgBx {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.client .imgBx img {
+  max-width: 200px;
+  margin: 20px;
+  opacity: 0.25;
+  cursor: pointer;
+}
+
+.client .imgBx img:hover {
+  opacity: 1;
+}
+
+.testimonials {
+  position: relative;
+  padding: 100px;
+  background: #12222d;
+  text-align: center;
+}
+
+.testimonials .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+
+.testimonials .container .contentBx {
+  background: #fff;
+  padding: 60px 40px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+.testimonials .container .contentBx p {
+  font-style: italic;
+}
+
+.testimonials .container .contentBx h3 {
+  width: 100%;
+  text-align: end;
+  font-weight: 500;
+  color: #3f8ffc;
+}
+
+.contact {
+  padding: 100px;
+  background: #162c3b;
+  text-align: center;
+}
+
+.imgBx2 {
+  background: url(/img/bg2.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+}
+
+.redBg {
+  background: url(img/red.jpg) !important;
+  background-size: cover;
+  background-position: center;
+}
